@@ -1,0 +1,24 @@
+.one
+{
+    background-color: red;
+    color: white;
+    border: none;
+}
+.one:hover {
+    background-color: green;
+    color: black;
+    transition: 0.5s ease;
+  }
+.two:hover{
+background-color: rgb(25, 0, 137);
+ color: white;
+border-color: blue;
+border-style: solid;
+transition: 0.5s ease;
+}
+.three:hover{
+background-color: white;
+    border: none;
+    /* border-color: blue; */
+    transition: 1s ease;
+}

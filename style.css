@@ -1,0 +1,13 @@
+.one, .two, .three {
+    color: rgb(0, 16, 157);
+    background-color: rgb(0, 83, 68);
+    border-radius: 10px; 
+    width: 150px;
+    font-size: larger;
+    height: 100px;
+    padding: 70px;
+    padding-top: 50px;
+    padding-left: 35px;
+    padding-right: 40px;
+    border-bottom: 40px;
+}
